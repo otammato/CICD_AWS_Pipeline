@@ -141,3 +141,6 @@ To verify that the Code Pipeline is triggered I will make a change to the code i
 <p>Hello World</p>
 ```
 <br><br>
+
+Checking on the Pipeline back in the AWS console you can actually see the Pipeline at work. It is automatically taking in the changes and executing them.
+<br><br>

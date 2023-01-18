@@ -9,7 +9,7 @@ CI/CD refers to the practice of continuously integrating and continuously deploy
 - Github account
 <br><br>
 
-#### Step 1
+### Step 1
 In the initial step, we will establish an S3 bucket to host a static website. To begin, go to the S3 section of the AWS console. Select Buckets and then click on Create bucket. Here, you will give the bucket a unique name, select the region, and ensure that the bucket is accessible to the public by disabling the option for "Block all public access.
 <br><br>
 
@@ -55,6 +55,6 @@ Don't forget to change the ARN to your bucket with “/*” after the ARN. Click
 </p>
 <br><br>
 
-#### Step 2
+### Step 2
 For the next step navigate to CodePipeline > Create pipeline. Name your pipeline and click Next. On the Add source stage you will want to choose GitHub (Version 2) and connect to your GitHub account. You will be prompted to enter your GitHub account username and password."
 <br><br>

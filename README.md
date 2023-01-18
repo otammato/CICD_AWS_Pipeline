@@ -19,3 +19,10 @@ In the initial step, we will establish an S3 bucket to host a static website. To
 <br><br>
 
 After you click on 'Create bucket,' you will then set up the bucket to host a static website by navigating to the Properties tab within the bucket.
+
+<br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_2.webp" width="700px"/>
+</p>
+<br><br>

@@ -107,3 +107,6 @@ Click Next to review the stages and if it all looks good then click on Create pi
   <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_8.webp" width="700px"/>
 </p>
 <br><br>
+
+Now that the code is deployed to S3 we can check by grabbing the S3 website endpoint. Found in the properties tab of your S3 bucket, scroll all the way to the bottom of the page.
+<br><br>

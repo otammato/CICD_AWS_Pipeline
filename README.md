@@ -31,6 +31,7 @@ Scroll all the way down to Static website hosting. Click on Edit and Enable stat
 
 <br>
 ```
+<pre>
 {
     "Version": "2012-10-17",
     "Id": "Policy1653853839796",
@@ -44,6 +45,7 @@ Scroll all the way down to Static website hosting. Click on Edit and Enable stat
         }
     ]
 }
+</pre>
 ```
 
 <br><br>

@@ -13,8 +13,8 @@ CI/CD refers to the practice of continuously integrating and continuously deploy
 In the initial step, we will establish an S3 bucket to host a static website. To begin, go to the S3 section of the AWS console. Select Buckets and then click on Create bucket. Here, you will give the bucket a unique name, select the region, and ensure that the bucket is accessible to the public by disabling the option for "Block all public access.
 <br><br>
 
-<p align="center" width="200px">
-  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_1.webp" />
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_1.webp" width="200px"/>
 </p>
 <br><br>
 

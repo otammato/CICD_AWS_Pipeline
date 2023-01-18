@@ -124,5 +124,5 @@ Copy and paste the URL in your browser…
 </p>
 <br><br>
 
-And behold the static website! That we are able to view due to the read permissions given to the public.
+And here is the static website! That we are able to view due to the read permissions given to the public.
 <br><br>

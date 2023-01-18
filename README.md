@@ -26,3 +26,7 @@ After you click on 'Create bucket,' you will then set up the bucket to host a st
   <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_2.webp" width="700px"/>
 </p>
 <br><br>
+
+Scroll all the way down to Static website hosting. Click on Edit and Enable static website hosting. Then type in index.html and error.html as indicated and click Save. Now move over to the Permissions tab. Here we will add a bucket policy to allow public read access. Click on the Edit bucket policy and input the JSON code below.
+
+<br><br>

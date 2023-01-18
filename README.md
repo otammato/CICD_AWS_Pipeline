@@ -58,3 +58,8 @@ Don't forget to change the ARN to your bucket with “/*” after the ARN. Click
 ### Step 2
 For the next step navigate to CodePipeline > Create pipeline. Name your pipeline and click Next. On the Add source stage you will want to choose GitHub (Version 2) and connect to your GitHub account. You will be prompted to enter your GitHub account username and password."
 <br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_4.webp" width="700px"/>
+</p>
+<br><br>

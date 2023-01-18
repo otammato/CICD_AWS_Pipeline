@@ -68,7 +68,7 @@ Authorize the connector. Afterwards, you will be asked to specify which reposito
 <br><br>
 
 <p align="center" >
-  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_5.webp" width="700px"/>
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_5.png" width="700px"/>
 </p>
 <br><br>
 

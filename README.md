@@ -138,5 +138,5 @@ To verify that the Code Pipeline is triggered I will make a change to the code i
 
 ```<pre>
 <p>Hello World</p>
-</pre>```
+```</pre>
 <br><br>

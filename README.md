@@ -45,3 +45,6 @@ Scroll all the way down to Static website hosting. Click on Edit and Enable stat
     ]
 }
 </pre>
+
+<br><br>
+Don't forget to change the ARN to your bucket with “/*” after the ARN. Click Save. Your bucket is now publicly accessible.

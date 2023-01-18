@@ -146,7 +146,16 @@ Checking on the Pipeline back in the AWS console you can actually see the Pipeli
 <br><br>
 
 
-![[image]](https://user-images.githubusercontent.com/104728608/213282859-525c34b6-7a70-4f15-b057-d176124e0fd2.png)
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_12.webp" width="700px"/>
+</p>
+<br><br>
 
 <br><br>
 When refreshing the static website the changes I made to the file should appear.
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_13.webp" width="700px"/>
+</p>
+<br><br>
+

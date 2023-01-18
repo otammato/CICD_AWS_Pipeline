@@ -48,3 +48,9 @@ Scroll all the way down to Static website hosting. Click on Edit and Enable stat
 
 <br><br>
 Don't forget to change the ARN to your bucket with “/*” after the ARN. Click Save. Your bucket is now publicly accessible.
+<br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_3.webp" width="700px"/>
+</p>
+<br><br>

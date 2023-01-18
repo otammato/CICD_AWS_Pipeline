@@ -29,7 +29,7 @@ After you click on 'Create bucket,' you will then set up the bucket to host a st
 
 Scroll all the way down to Static website hosting. Click on Edit and Enable static website hosting. Then type in index.html and error.html as indicated and click Save. Now move over to the Permissions tab. Here we will add a bucket policy to allow public read access. Click on the Edit bucket policy and input the JSON code below.
 
-<br><br>
+<br>
 <pre>
 {
     "Version": "2012-10-17",

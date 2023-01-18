@@ -63,3 +63,7 @@ For the next step navigate to CodePipeline > Create pipeline. Name your pipeline
   <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_4.webp" width="700px"/>
 </p>
 <br><br>
+
+Authorize the connector. You will then be asked which repositories AWS can connect to. Choose accordingly, the repo of your choosing, and click Install > Connect. You will be brought back to CodePipeline. Here you will choose your repo and branch name.
+<br><br>
+

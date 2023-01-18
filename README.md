@@ -76,9 +76,9 @@ Authorize the connector. Afterwards, you will be asked to specify which reposito
 Next, you are asked to choose a builder, indicate AWS CodeBuild. Choose your Region and click create a project, this will bring you to CodeBuild. In CodeBuild we use the following configurations:
 <br>
 - Managed Image
-- Ubuntu
+- Amazon Linux 2
 - Standard runtime
-- aws/codebuild/standard:5.0
+- aws/codebuild/amazonlinux2-x86_64-standard:4.0
 - Always use the latest image for this runtime version
 - Linux
 - Create a New Service Role

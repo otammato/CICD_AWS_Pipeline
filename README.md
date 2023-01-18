@@ -92,6 +92,6 @@ Then click on Continue to CodePipeline. Back in CodePipeline, you should find th
 <br><br>
 
 ### Step 4
-On to the deploy stage! We will be deploying to the S3 bucket you just created. Choose S3 and your bucket.
+The deploy stage! We will be deploying to the S3 bucket you just created. Choose S3 and your bucket.
 <br><br>
 

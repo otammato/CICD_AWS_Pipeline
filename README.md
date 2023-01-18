@@ -135,7 +135,7 @@ And here is the static website! That we are able to view due to the read permiss
 ### Step 5
 To verify that the Code Pipeline is triggered I will make a change to the code in GitHub. The pipeline should automatically trigger and make the changes. Let’s test it out! I will edit the HTML file and commit the changes.
 <br><br>
-<pre>
-<`p>Hello World<`/p>
-</pre>
+`<pre>
+<p>Hello World</p>
+</pre>`
 <br><br>

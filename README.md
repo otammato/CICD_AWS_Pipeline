@@ -99,3 +99,11 @@ The deploy stage! We will be deploying to the S3 bucket you just created. Choose
   <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_7.webp" width="700px"/>
 </p>
 <br><br>
+
+Click Next to review the stages and if it all looks good then click on Create pipeline. When it is done deploying your screen should look like this.
+<br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_8.webp" width="700px"/>
+</p>
+<br><br>

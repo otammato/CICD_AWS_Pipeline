@@ -126,3 +126,28 @@ Copy and paste the URL in your browser…
 
 And here is the static website! That we are able to view due to the read permissions given to the public.
 <br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_11.webp" width="700px"/>
+</p>
+<br><br>
+
+### Step 5
+To verify that the Code Pipeline is triggered I will make a change to the code in GitHub. The pipeline should automatically trigger and make the changes. Let’s test it out! I will edit the HTML file and commit the changes.
+<br><br>
+<pre>
+{
+    "Version": "2012-10-17",
+    "Id": "Policy1653853839796",
+    "Statement": [
+        {
+            "Sid": "Stmt1653853838629",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::cicd-pipeline-deploy/*"
+        }
+    ]
+}
+</pre>
+<br><br>

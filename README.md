@@ -90,3 +90,8 @@ Then click on Continue to CodePipeline. Back in CodePipeline, you should find th
   <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_6.webp" width="700px"/>
 </p>
 <br><br>
+
+### Step 4
+On to the deploy stage! We will be deploying to the S3 bucket you just created. Choose S3 and your bucket.
+<br><br>
+

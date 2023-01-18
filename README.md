@@ -85,3 +85,8 @@ Next, you are asked to choose a builder, indicate AWS CodeBuild. Choose your Reg
 <br>
 Then click on Continue to CodePipeline. Back in CodePipeline, you should find that your project was successfully built in CodeBuild.
 <br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_6.webp" width="700px"/>
+</p>
+<br><br>

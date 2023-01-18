@@ -43,9 +43,9 @@ Scroll all the way down to Static website hosting. Click on Edit and Enable stat
             "Resource": "arn:aws:s3:::cicd-pipeline-deploy/*"
         }
     ]
-}```
+}
 
-<br><br>
+```<br><br>
 Don't forget to change the ARN to your bucket with “/*” after the ARN. Click Save. Your bucket is now publicly accessible.
 <br><br>
 

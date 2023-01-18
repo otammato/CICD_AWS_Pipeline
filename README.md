@@ -148,3 +148,5 @@ Checking on the Pipeline back in the AWS console you can actually see the Pipeli
 
 ![[image]](https://user-images.githubusercontent.com/104728608/213282859-525c34b6-7a70-4f15-b057-d176124e0fd2.png)
 
+<br><br>
+When refreshing the static website the changes I made to the file should appear.

@@ -118,3 +118,11 @@ Now that the code is deployed to S3 we can check by grabbing the S3 website endp
 
 Copy and paste the URL in your browser…
 <br><br>
+
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_10.webp" width="700px"/>
+</p>
+<br><br>
+
+And behold the static website! That we are able to view due to the read permissions given to the public.
+<br><br>

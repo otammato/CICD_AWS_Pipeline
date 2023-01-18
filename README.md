@@ -67,3 +67,21 @@ For the next step navigate to CodePipeline > Create pipeline. Name your pipeline
 Authorize the connector. You will then be asked which repositories AWS can connect to. Choose accordingly, the repo of your choosing, and click Install > Connect. You will be brought back to CodePipeline. Here you will choose your repo and branch name.
 <br><br>
 
+<p align="center" >
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/images/image_4.webp" width="700px"/>
+</p>
+<br><br>
+
+### Step 3
+Next, you are asked to choose a builder, indicate AWS CodeBuild. Choose your Region and click create a project, this will bring you to CodeBuild. In CodeBuild I used the following configurations:
+<br>
+- Managed Image
+- Ubuntu
+- Standard runtime
+- aws/codebuild/standard:5.0
+- Always use the latest image for this runtime version
+- Linux
+- Create a New Service Role
+<br>
+Then click on Continue to CodePipeline. Back in CodePipeline, you should find that your project was successfully built in CodeBuild.
+<br><br>

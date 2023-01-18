@@ -14,7 +14,7 @@ In the initial step, we will establish an S3 bucket to host a static website. To
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/otammato/project3_vpc_ec2_as_nat_igw/blob/main/Screenshot 2023-01-10 at 18.21.41.png" />
+  <img src="https://github.com/otammato/CICD_AWS_Pipeline/blob/main/image_1.webp" />
 </p>
 <br><br>
 

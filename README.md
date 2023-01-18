@@ -56,7 +56,7 @@ Don't forget to change the ARN to your bucket with “/*” after the ARN. Click
 <br><br>
 
 ### Step 2
-For the next step navigate to CodePipeline > Create pipeline. Name your pipeline and click Next. On the Add source stage you will want to choose GitHub (Version 2) and connect to your GitHub account. You will be prompted to enter your GitHub account username and password."
+Go to AWS CodePipeline and create a new pipeline. Give it a name and proceed. On the next page, select the option to add a source stage and choose GitHub (Version 2) as the source. Connect to your GitHub account by entering your username and password when prompted.
 <br><br>
 
 <p align="center" >
@@ -64,7 +64,7 @@ For the next step navigate to CodePipeline > Create pipeline. Name your pipeline
 </p>
 <br><br>
 
-Authorize the connector. You will then be asked which repositories AWS can connect to. Choose accordingly, the repo of your choosing, and click Install > Connect. You will be brought back to CodePipeline. Here you will choose your repo and branch name.
+Authorize the connector. Afterwards, you will be asked to specify which repositories AWS can access. Select the appropriate repository and click on the Install > Connect button. You will be directed back to CodePipeline. Now, select your repository and specify the branch name.
 <br><br>
 
 <p align="center" >
@@ -73,7 +73,7 @@ Authorize the connector. You will then be asked which repositories AWS can conne
 <br><br>
 
 ### Step 3
-Next, you are asked to choose a builder, indicate AWS CodeBuild. Choose your Region and click create a project, this will bring you to CodeBuild. In CodeBuild I used the following configurations:
+Next, you are asked to choose a builder, indicate AWS CodeBuild. Choose your Region and click create a project, this will bring you to CodeBuild. In CodeBuild we use the following configurations:
 <br>
 - Managed Image
 - Ubuntu
@@ -124,7 +124,7 @@ Copy and paste the URL in your browser…
 </p>
 <br><br>
 
-And here is the static website! That we are able to view due to the read permissions given to the public.
+And here is our static website! That we are able to view due to the read permissions given to the public.
 <br><br>
 
 <p align="center" >
